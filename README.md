@@ -8,7 +8,7 @@ There are numerous rules people use in their projects, this is collection of tho
 
 Currently there are security rules for following:
 
->No security
+>**No security**
 
 >Full security
 
