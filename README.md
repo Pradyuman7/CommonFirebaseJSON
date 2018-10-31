@@ -12,9 +12,9 @@ Currently there are security rules for following:
 
 >**Full security**
 
->Only Authenticated users can write
+>**Only Authenticated users can write**
 
->Users can only access their own data
+>**Users can only access their own data**
 
 >Validates user is moderator from different database location
 
