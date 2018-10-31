@@ -1,5 +1,7 @@
 # Common Firebase JSON Structures
 
+![1 ipwpqqrhz0lkd_5setxqcq jpeg](https://user-images.githubusercontent.com/41565823/47785324-ae62fd80-dd08-11e8-82f9-84fbe36ecf34.png)
+
 There are tons of operations that can be made into your firebase database using JSON rules, you can potentially control what your user can change, do or access from your databaase.
 
 Compilation of the common security rules for Firebase that are often used by people in their projects.
