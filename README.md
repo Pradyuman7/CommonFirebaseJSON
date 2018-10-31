@@ -16,13 +16,13 @@ Currently there are security rules for following:
 
 >**Users can only access their own data**
 
->Validates user is moderator from different database location
+>**Validates user is moderator from different database location**
 
->Validates string datatype and length range
+>**Validates string datatype and length range**
 
->Checks presense of child attributes
+>**Checks presense of child attributes**
 
->Validates timestamp is not a future value
+>**Validates timestamp is not a future value**
 
 >Prevents Delete or Update
 
