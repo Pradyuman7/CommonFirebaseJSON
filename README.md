@@ -10,7 +10,7 @@ Currently there are security rules for following:
 
 >**No security**
 
->Full security
+>**Full security**
 
 >Only Authenticated users can write
 
