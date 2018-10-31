@@ -33,3 +33,16 @@ Currently there are security rules for following:
 >**Prevents Create and Delete**
 
 >**Allows update but no push (no new child created)**
+
+
+# Contribute to this repository, if you happen to have any new JSON structure
+
+1. Fork this repository.
+2. Add new JSON structure with small explanation in SecurityRules.json
+3. Don't forget to edit ReadMe.md with your new JSON structure
+4. Create a new pull request -> Submit the pull request
+5. Also do add your profile name and link in the contributors' list
+
+# Current Contributors
+
+- PradyumanDixit, https://github.com/Pradyuman7
