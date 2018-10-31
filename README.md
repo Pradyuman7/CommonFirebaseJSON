@@ -1,4 +1,7 @@
-# Common Firebase Security Rules
+# Common Firebase JSON Structures
+
+There are tons of operations that can be made into your firebase database using JSON rules, you can potentially control what your user can change, do or access from your databaase.
+
 Compilation of the common security rules for Firebase that are often used by people in their projects.
 
 There are numerous rules people use in their projects, this is collection of those which have been used in my projects or in some other.
