@@ -24,12 +24,12 @@ Currently there are security rules for following:
 
 >**Validates timestamp is not a future value**
 
->Prevents Delete or Update
+>**Prevents Delete or Update**
 
->Prevents only Delete
+>**Prevents only Delete**
 
->Prevents only Update
+>**Prevents only Update**
 
->Prevents Create and Delete
+>**Prevents Create and Delete**
 
->Allows update but no push (no new child created)
+>**Allows update but no push (no new child created)**
