@@ -8,7 +8,7 @@ Compilation of the common security rules for Firebase that are often used by peo
 
 There are numerous rules people use in their projects, this is collection of those which have been used in my projects or in some other.
 
-Currently there are security rules for following:
+Currently there are JSON code for following kind of behavior:
 
 >**No security**
 
