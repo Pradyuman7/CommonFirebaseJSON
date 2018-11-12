@@ -146,3 +146,15 @@
   }
 }}
 
+// restric users based on their phone number to access their own data
+{
+    "rules" : {
+        "users" : {
+            "$phoneNumber" : {
+                ".read" : "request.auth.token.phone_number == $phoneNumber",
+                ".write" : "request.auth.token.phone_number == $phoneNumber"
+            }
+        }
+    }
+}
+
